@@ -47,7 +47,7 @@ Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,aws,docker,prometheus,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,aws,docker,mysql,html,css,git,github,vscode" />
 </p>
 
 ---
