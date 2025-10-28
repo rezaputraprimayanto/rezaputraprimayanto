@@ -22,14 +22,14 @@ Tech Stack: `AWS EC2` • `Docker` • `Prometheus` • `Node Exporter`
 
 ---
 
-#### 🩺 [Driver Stress Detection System](https://github.com/rezaputraprimayanto/-Driver-Stress-Detection-System)
+#### 🩺 [Driver Stress Detection System Using PPG & GSR Signal with Random Forest Method](https://github.com/rezaputraprimayanto/-Driver-Stress-Detection-System)
 A stress detection system that classifies driver workload using **PPG** and **GSR** physiological signals.  
 Tech Stack: `Python` • `NumPy` • `SciPy` • `Matplotlib` • `Random Forest`  
 > Combined multiple denoising and peak detection methods for ensemble peak analysis and stress classification.
 
 ---
 
-#### 🎙️ [Speaker Recognition System](https://github.com/rezaputraprimayanto/Speaker-Recognition-System)
+#### 🎙️ [Speaker Recognition System Using DNN Algorithm](https://github.com/rezaputraprimayanto/Speaker-Recognition-System)
 Recognizes spoken commands (“buka pintu” / “kunci pintu”) using **Deep Neural Network (DNN)** for speaker classification.  
 Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`  
 > Developed and trained a DNN model using MFCC features to achieve high command recognition accuracy.
