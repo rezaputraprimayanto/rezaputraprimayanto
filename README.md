@@ -52,10 +52,12 @@ Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaputraprimayanto&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaputraprimayanto&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="150" src="https://github.com/rezaputraprimayanto/rezaputraprimayanto/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 ---
 
