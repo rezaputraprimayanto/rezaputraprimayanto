@@ -43,8 +43,6 @@ Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`
 | **Speaker Recognition System** | <img src="https://raw.githubusercontent.com/rezaputraprimayanto/Speaker-Recognition-System/main/assets/mfcc_plot.png" width="300"/> | MFCC feature extraction and DNN training output for voice recognition. |
 | **Cloud Monitoring System on AWS** | <img src="https://raw.githubusercontent.com/rezaputraprimayanto/Cloud-Monitoring-System/main/assets/docker_monitoring.png" width="300"/> | Docker-based monitoring stack running Prometheus and Node Exporter on AWS EC2. |
 
-> 🧩 You can replace the image links above with your own generated plots or screenshots — just store them in an `assets/` folder in each repository.
-
 ---
 
 ### 🧰 Tech Stack
