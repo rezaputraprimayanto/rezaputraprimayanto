@@ -8,7 +8,7 @@ I’m a Computer Engineering graduate passionate about data science, and machine
 I enjoy building intelligent systems that bridge research and real-world applications — from stress detection to speaker recognition 🎧.
 
 - 🎓 Bachelor of Computer Engineering, Universitas Brawijaya  
-- 💡 Interested in: Data Science, Machine Learning, Cloud Computing, and Signal Processing  
+- 💡 Interested in: Data Science and Machine Learning.
 - 🌱 Currently learning: Deep Learning & Cloud Deployment  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rezaputraprimayanto/)** or **[Email](mailto:rezaprimayanto@gmail.com)**  
 
@@ -16,21 +16,21 @@ I enjoy building intelligent systems that bridge research and real-world applica
 
 ### 🚀 Featured Projects
 
-#### ☁️ [Cloud Monitoring System on AWS](https://github.com/rezaputraprimayanto/Cloud-Monitoring-System)
+#### ☁️ [Cloud Monitoring System on AWS EC2](https://github.com/rezaputraprimayanto/Cloud-Monitoring-System)
 A cloud-based monitoring system using **Prometheus** and **Node Exporter** to visualize and track server performance metrics on AWS.  
 Tech Stack: `AWS EC2` • `Prometheus` • `Node Exporter` • `Grafana`  
 > Deployed a real-time cloud infrastructure monitoring setup for performance insights and resource optimization.
 
 ---
 
-#### 🩺 [Driver Stress Detection System](https://github.com/rezaputraprimayanto/-Driver-Stress-Detection-System)
+#### 🩺 [Driver Stress Detection System Using PPG and GSR Signal with Random Forest Method](https://github.com/rezaputraprimayanto/-Driver-Stress-Detection-System)
 A stress detection system that classifies driver workload using **PPG** and **GSR** physiological signals.  
 Tech Stack: `Python` • `NumPy` • `SciPy` • `Matplotlib` • `Random Forest`  
 > Implemented multiple denoising and peak detection methods before ensemble peak analysis for stress classification.
 
 ---
 
-#### 🎙️ [Speaker Recognition System](https://github.com/rezaputraprimayanto/Speaker-Recognition-System)
+#### 🎙️ [Speaker Recognition System Using DNN Algorithm](https://github.com/rezaputraprimayanto/Speaker-Recognition-System)
 Recognizes spoken commands (“buka pintu” / “kunci pintu”) using **Deep Neural Network (DNN)** for speaker classification.  
 Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`  
 > Designed and trained a DNN model using MFCC features to achieve high accuracy in command recognition.
