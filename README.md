@@ -36,15 +36,6 @@ Tech Stack: `Python` • `TensorFlow` • `Keras` • `Librosa` • `NumPy`
 
 ---
 
-### 🖼️ Project Gallery
-| Project | Preview | Description |
-|:--|:--:|:--|
-| **Driver Stress Detection System** | <img src="https://raw.githubusercontent.com/rezaputraprimayanto/-Driver-Stress-Detection-System/main/assets/ppg_signal.png" width="300"/> | Visualization of PPG and GSR signals with detected peaks for stress analysis. |
-| **Speaker Recognition System** | <img src="https://raw.githubusercontent.com/rezaputraprimayanto/Speaker-Recognition-System/main/assets/mfcc_plot.png" width="300"/> | MFCC feature extraction and DNN training output for voice recognition. |
-| **Cloud Monitoring System on AWS** | <img src="https://raw.githubusercontent.com/rezaputraprimayanto/Cloud-Monitoring-System/main/assets/docker_monitoring.png" width="300"/> | Docker-based monitoring stack running Prometheus and Node Exporter on AWS EC2. |
-
----
-
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,aws,docker,mysql,html,css,git,github,vscode" />
