@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
+      issues: read
+      pull-requests: read
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -21,3 +24,4 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           plugin_repositories: yes
+          filename: github-metrics.svg
