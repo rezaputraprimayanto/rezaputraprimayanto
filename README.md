@@ -1,12 +1,12 @@
 ### 📊 GitHub Metrics
-<p align="center">
+<p align="left">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
 
 ### ☁️ Let's Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rezaputraprimayanto/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square"/>
   </a>
