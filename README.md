@@ -1,6 +1,6 @@
 ### 📊 GitHub Metrics
 <p align="left">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img src="./github-metrics2.svg" alt="GitHub Metrics" />
 </p>
 
 ---
